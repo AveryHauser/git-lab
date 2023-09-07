@@ -139,5 +139,3 @@ Fast-forward
 
  Answer 13:
  .		..		git-lab-2
-
- Answer 14:
